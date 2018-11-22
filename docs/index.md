@@ -11,4 +11,4 @@ Vincent Lee
 ## 目录
 1. CS
     1.1. regexr
-        1.1.1 [为数值加逗号](CS/regexr/insertCommas2digits.html)
+        1.1.1 [为数值加逗号](CS/regexr/insertCommas2digits.md)
