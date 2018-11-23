@@ -1,2 +1,2 @@
 # myblog
-My daily blog and funny ideas
+My daily blog and funny ideas dev
